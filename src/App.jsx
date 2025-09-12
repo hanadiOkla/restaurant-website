@@ -30,7 +30,7 @@ const App = () => {
         <Navbar />
         <Hero />
 
-        <Routes>
+        <Routes basename="/restaurant-website">
           <Route path="/" element={<Home />} />
            <Route path="/our-meals" element={<Meals />} />
           <Route path="/about" element={<About />} />
