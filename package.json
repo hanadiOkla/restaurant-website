@@ -2,7 +2,7 @@
   "name": "restaurant-website",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://hanadiOklagithub.github.io/restaurant-website",
+  "homepage": "https://hanadiOkla.github.io/restaurant-website",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
